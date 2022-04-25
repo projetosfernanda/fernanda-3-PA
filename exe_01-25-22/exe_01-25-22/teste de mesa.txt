@@ -1,0 +1,12 @@
+
+algoritimo
+   Digite QTDEMIN
+   Digite QTDEMAX
+   Faça estoquemedio=(QTDEMIN+QTDEMAX)/2
+   Mostre o estoquemedio
+filmAlgoritimo
+   
+TESTE DE MESA
+
+qtdemin    qtdemax    estoquemedio
+15          200         107.5
