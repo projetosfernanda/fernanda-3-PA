@@ -1,9 +1,0 @@
-Algoritimo CalculaPreco
-   Entre com o preco de custo do carro e armazene em preco_custo
-   Faca imposto = preco_custo * 1,05
-   Faca transporte = imposto * 1,28
-   Faca cusro_final = transporte
-   mostre custo_final
-
-
-FilmAlgoritimo
